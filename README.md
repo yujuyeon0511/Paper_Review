@@ -4,6 +4,6 @@
 
 ## Natural Language Processing (NLP)
 
- - [Prompt Engineering](./NLP/NLP_modelling.md)
- - [Parameter Efficient Fine-tuning](./NLP/NLP_modelling.md)
- - [LLM Application](./NLP/NLP_modelling.md)
+ - [Prompt Engineering](./Prompt Engineering/readme.md)
+ - [Parameter Efficient Fine-tuning](./Parameter Efficient Fine-tuning/readme.md)
+ - [LLM Application](./LLM Application/readme.md)
