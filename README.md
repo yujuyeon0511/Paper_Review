@@ -6,4 +6,4 @@
 
  - [Prompt Engineering](./Prompt Engineering/readme.md)
  - [Parameter Efficient Fine-tuning](./Parameter Efficient Fine-tuning/readme.md)
- - [LLM Application](./LLM Application/readme.md)
+ - [LLM Application](./LLM Application/readme)
