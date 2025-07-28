@@ -1,9 +1,15 @@
 # My Reading List for Papers in AI, NLP, Deep Learning and More.
 
-#### Last Update: Jan 2024
+#### Last Update: Jul 2025
 
-## Natural Language Processing (NLP)
+## Papers
 
- - [Prompt Engineering](https://github.com/yujuyeon0511/Paper_Review/tree/main/Prompt%20Engineering)
- - [Parameter Efficient Fine-tuning](https://github.com/yujuyeon0511/Paper_Review/tree/main/Parameter%20Efficient%20Fine-tuning)
- - [LLM Application](https://github.com/yujuyeon0511/Paper_Review/tree/main/LLM%20Application)
+| Year | Title | Model | Link |
+|------|-------|-------|------|
+| 2024 | A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice |   | [arXiv](https://arxiv.org/abs/2304.08485) |
+| 2023 | MiniGPT-4 | MiniGPT-4 | Vision-CAIR | [arXiv](https://arxiv.org/abs/2304.10592) |
+| 2024 | mPLUG-Owl2 | mPLUG-Owl2 | DAMO Academy | [arXiv](https://arxiv.org/abs/2308.12966) |
+| 2023 | Kosmos-2 | Kosmos | Microsoft | [arXiv](https://arxiv.org/abs/2306.14824) |
+| 2024 | Gemini 1.5 | Gemini | Google DeepMind | [blog](https://deepmind.google/technologies/gemini/gemini-15/) |
+
+---
