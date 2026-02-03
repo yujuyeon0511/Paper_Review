@@ -1,15 +1,11 @@
-# My Reading List for Papers in AI, NLP, Deep Learning and More.
+# 📚 AI 논문 리뷰
 
-#### Last Update: Jul 2025
+자동으로 생성된 논문 분석 리뷰입니다.
 
-## Papers
+## 최근 리뷰
 
-| Year | Title | Model | Link |
-|------|-------|-------|------|
-| 2024 | A Survey of Uncertainty Estimation in LLMs: Theory Meets Practice |   | [arXiv](https://arxiv.org/abs/2304.08485) |
-| 2023 | MiniGPT-4 | MiniGPT-4 | Vision-CAIR | [arXiv](https://arxiv.org/abs/2304.10592) |
-| 2024 | mPLUG-Owl2 | mPLUG-Owl2 | DAMO Academy | [arXiv](https://arxiv.org/abs/2308.12966) |
-| 2023 | Kosmos-2 | Kosmos | Microsoft | [arXiv](https://arxiv.org/abs/2306.14824) |
-| 2024 | Gemini 1.5 | Gemini | Google DeepMind | [blog](https://deepmind.google/technologies/gemini/gemini-15/) |
+아래 `reviews/` 폴더에서 모든 리뷰를 확인할 수 있습니다.
 
 ---
+
+> 🤖 Powered by AI Research Assistant
